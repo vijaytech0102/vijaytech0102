@@ -1,3 +1,4 @@
+<img src="https://github.com/vijaytech0102/Read-Me/blob/main/Banner.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Vijay Sen Singh Yadav</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="">
