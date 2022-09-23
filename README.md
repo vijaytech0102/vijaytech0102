@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React Js.**
 
-- 💬 Ask me about **DSA, React, Html and CSS.**
+- 💬 Ask me about **DSA, React,Html,CSS, Javascript and MySQL.**
 
 - 📫 How to reach me **vijaytech0102@gmail.com**
 
-- 👯 In my leisure time, **I love to do nature explore .**
+- 👯 In my leisure time, **I love to explore nature.**
 
-- ⚡ Fun fact **I love teaching and cooking**
+- ⚡ Fun fact **I love teaching**
 
 
 
