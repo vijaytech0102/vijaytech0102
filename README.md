@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Angular and Spring and Spring Boot.**
+- 🌱 I’m currently working on **Angular and Spring and Spring Boot.**
 
 - 💬 Ask me about **DSA, React,Html,CSS, Javascript and MySQL.**
 
