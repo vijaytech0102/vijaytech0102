@@ -68,10 +68,10 @@
 
 ---
 
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/vijaytech0102/vijaytech0102/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/vijaytech0102/vijaytech0102/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
