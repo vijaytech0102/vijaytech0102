@@ -1,44 +1,80 @@
-<h1 align="center">Hi 👋, I'm Vijay </h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!-- Profile Header -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#ff6f61;">Vijay</span>
+</h1>
+<h3 align="center">💻 A passionate Fullstack Developer from India 🌏</h3>
 
-- 🌱 I’m currently working on **Angular and Spring and Spring Boot.**
+---
 
-- 💬 Ask me about **DSA, React,Html,CSS, Javascript and MySQL.**
+## 🚀 About Me
+- 🌱 Currently working on **Angular, Spring & Spring Boot**
+- 💬 Ask me about **DSA, React, HTML, CSS, JavaScript, MySQL**
+- 📫 Reach me at **vijaytech0102@gmail.com**
+- 👯 In my leisure time, I **love to explore nature 🌿**
+- ⚡ Fun fact: **I love teaching 🧑‍🏫**
 
-- 📫 How to reach me **vijaytech0102@gmail.com**
+---
 
-- 👯 In my leisure time, **I love to explore nature.**
-
-- ⚡ Fun fact **I love teaching**
-
-
-
-
-### Blogs posts
+## 📝 Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vijaytech0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vijaytech0102" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/altairvijay000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altairvijay000" height="30" width="40" /></a>
-<a href="https://instagram.com/altair_vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="altair_vijay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vijaytech0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijaytech0102" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vijaytech0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaytech0102" height="30" width="40" /></a>
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://dev.to/vijaytech0102" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/altairvijay000" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/altair_vijay" target="blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/vijaytech0102" target="blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/vijaytech0102" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaytech0102&label=Profile%20views&color=0e75b6&style=flat" alt="vijaytech0102" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaytech0102" alt="vijaytech0102" /></a> </p>
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,angular,java,spring,python,django,mysql,mongodb,git,github,postman,docker,kubernetes,aws,ps,figma" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaytech0102&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaytech0102&layout=compact&theme=radical" alt="langs"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaytech0102&show_icons=true&locale=en&layout=compact" alt="vijaytech0102" /></p>
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vijaytech0102&theme=dark&hide_border=true" alt="streak"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaytech0102&show_icons=true&locale=en" alt="vijaytech0102" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaytech0102&" alt="vijaytech0102" /></p>
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaytech0102&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaytech0102&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/vijaytech0102/vijaytech0102/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=vijaytech0102&label=Profile%20Views&color=ff69b4&style=flat-square" alt="vijaytech0102" />
+</p>
